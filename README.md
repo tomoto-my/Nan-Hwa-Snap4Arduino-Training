@@ -1,6 +1,10 @@
 # Nan Hwa Snap4Arduino Training
 
+## [中文版使用说明]
+
 **Nan Hwa Snap4Arduino Training** 是 **_espSnap_** 项目的配套教程。
+
+该项目的灵感来自于为马来西亚曼绒南华独立中学学生提供低入门级学习工具的目标。
 
 它有以下目标
 
@@ -92,7 +96,7 @@
 
 下载最新版本的 ***[Nan_Hwa_Snap4Arduino_Training.zip](https://github.com/tomoto-my/Nan-Hwa-Snap4Arduino-Training/archive/refs/heads/main.zip)*** 后解压压缩包
 
-培训材料位于文件夹**_Nan_Hwa_SnapSnap4Arduino_Training_**内
+培训材料位于文件夹 **_Nan_Hwa_SnapSnap4Arduino_Training_** 内
 
 培训材料包括 3 个培训课程的 **_pdf_** 文件和
 - **Snap4Arduino** 的示例文件
@@ -114,9 +118,7 @@
 
 
 ### (1) 在 Arduino 类别内
-此部分包含
-
-- **_espSnap_** 提供的所有基本功能
+- 此部分包含 **_espSnap_** 提供的所有基本功能
 - **_espSnap_** 提供的附加模块功能如下：
 
     | 附加功能       | Arduino 部件             |
@@ -149,9 +151,9 @@
 ---
 ## _espSnap_
 
-连接 Snap4Arduino 和 ESP32/ESP8266 Arduino 板的 Http 服务器
+连接 **Snap4Arduino** 和 ESP32/ESP8266 Arduino 板的 Http 服务器
 
-[**_espSnap_**](https://github.com/tomoto-my/espSnap) 可在以下网址获取：
+可在以下网址获取：
 
 [**https://github.com/tomoto-my/espSnap**](https://github.com/tomoto-my/espSnap)
 
@@ -162,7 +164,11 @@
 ---
 # Nan Hwa Snap4Arduino Training
 
+## [English Version Instructions]
+
 **Nan Hwa Snap4Arduino Training** is a companion tutorial for the **_espSnap_** project.
+
+This project has been inspired by the objective to provide a low entry level learning tool for Nan Hwa High School students in Perak, Malaysia.
 
 It has the following objectives
 
