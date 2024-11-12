@@ -116,10 +116,11 @@
 2. **NeoPixel** 类别
 3. **OLED SSD1306** 类别
 
+<BR>
 
 ### (1) 在 Arduino 类别内
 - 此部分包含 **_espSnap_** 提供的所有基本功能
-- **_espSnap_** 提供的附加模块功能如下：
+- 和下例部分 **_espSnap_** 提供的附加模块功能：
 
     | 附加功能       | Arduino 部件             |
     |:--------------|:------------------------|
@@ -225,6 +226,7 @@ This companion tutorial contains explanations and instructions with examples.
 
 ### Session 3 : Use Arduino Modules with Snap!
 - Session 3 allows users to interact with **_espSnap_** to perform the Additional Functions of the **espSnap_Library**
+    Following is a list of functions for the modules which **_espSnap_** had incorporated
 
     | Additional Functions        | Arduino Parts           |
     |:----------------------------|:------------------------|
@@ -260,18 +262,20 @@ It includes **_pdf_** file for the 3 Training Sessions and
 
 ---
 ## Import espSnap_Library into Snap4Arduino
-Just click on **_File->Imports..._** in Snap4Arduino and navigate to the **espSnap_Library.xml** file and select it
+Just click on **_File->Imports..._** in **Snap4Arduino** and navigate to the **espSnap_Library.xml** file and select it
 
-The custom blocks will appear in Snap4Arduino
+The custom blocks will appear in **Snap4Arduino**
+
 The custom blocks are currently split into the following 3 categories:
-(1) inside the **Arduino** category
-(2) **NeoPixel** category
-(3) **OLED SSD1306** category
+1. inside the **Arduino** category
+2. **NeoPixel** category
+3. **OLED SSD1306** category
+
+<BR>
 
 ### (1) inside the Arduino category
-This portion contains the
-- All Basic functions provided by **_espSnap_**
-- Additional Module functions provided by **_espSnap_** as follow:
+- This portion contains the **Basic Arduino Functions** provided by **_espSnap_**
+- and some of the **Additional Functions** provided by **_espSnap_** as follow:
 
     | Additional Functions        | Arduino Parts           |
     |:----------------------------|:------------------------|
