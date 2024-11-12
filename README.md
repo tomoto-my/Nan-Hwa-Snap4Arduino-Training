@@ -24,7 +24,7 @@
 
 ---
 ### 第一节 : 图块编程 Snap! 简介
-第 1 节是关于 **Snap4Arduino** 的 图块编程 Snap! 基本介绍
+第 1 节是关于 **Snap4Arduino** 的图块编程 Snap! 基本介绍
 
 - 它包含关于 Snap! 8 个主要类别的章节<BR>
     并举例说明了大多数常用块的功能或用途
@@ -33,16 +33,16 @@
 - 并能够开始创建自己的互动故事、游戏和动画
 - 示例包含详细解释
 
-- 有关 **Snap!** 详细说明，请参阅 [**Snap!** 参考手册](https://snap.berkeley.edu/snap/help/SnapManual.pdf)。
+- 有关 **Snap!** 详细说明，请参阅 [Run Snap_!_](https://snap.berkeley.edu/) 的 [**Snap!** 参考手册](https://snap.berkeley.edu/snap/help/SnapManual.pdf)。
 
 
-<BR>指导用户使用**espSnap_Library**与Arduino进行交互和交流
+<BR>
 
 ### 第二节 : 图块编程 Snap! + Arduino 结合的基础
-第 2 节指导用户使用**espSnap_Library**与**_espSnap_**进行交流，执行Arduino的以下基本功能
+第 2 节指导用户使用 **espSnap_Library** 与 **_espSnap_** 进行交流，执行Arduino的以下基本功能
 - 基本功能列表如下 :
 
-    | 基本功能列表 |
+    |        基本功能列表        |
     |:------------------------:|
     | 数字输入 |
     | 数字输出 |
@@ -63,7 +63,7 @@
 <BR>
 
 ### 第三节 : 结合图块编程 Snap! 与 Arduino 集成模块
-第 3 节介绍在 Snap4Arduino 中使用 espSnap_Library 的附加功能
+第 3 节介绍在 **Snap4Arduino** 中使用 **espSnap_Library** 的附加功能
 
 - 附加功能列表如下 :
 
@@ -83,6 +83,13 @@
     - Arduino 集成模块功能
     - 一些电子基础知识
     - 与模块相关的技术信息
+
+
+<BR>
+
+---
+# Download Nan Hwa Snap4Arduino Training
+
 
 
 <BR>
@@ -219,6 +226,26 @@ This companion tutorial contains explanations and instructions with examples.
     - Arduino Modules
     - basic guides on Electronics
     - technical info related to the modules
+
+<BR>
+
+---
+# Download Nan Hwa Snap4Arduino Training
+
+Download the latest version of ***[Nan_Hwa_Snap4Arduino_Training.zip](https://github.com/tomoto-my/Nan-Hwa-Snap4Arduino-Training/archive/refs/heads/main.zip)***
+
+Extract it
+
+- Directory Structure of the material as follows:
+
+    Nan_Hwa_Snap4Arduino_Training<BR>
+    |<BR>
+    -->Nan_Hwa_Snap4Arduino_Training_Session1_Examples<BR>
+    |<BR>
+    -->Nan_Hwa_Snap4Arduino_Training_Session2_Examples<BR>
+    |<BR>
+    -->Nan_Hwa_Snap4Arduino_Training_Session3_Examples<BR>
+
 
 <BR>
 
