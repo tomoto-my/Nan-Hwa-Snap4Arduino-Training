@@ -88,9 +88,15 @@
 <BR>
 
 ---
-# Download Nan Hwa Snap4Arduino Training
+# 下载 Nan Hwa Snap4Arduino Training
 
+下载最新版本的 ***[Nan_Hwa_Snap4Arduino_Training.zip](https://github.com/tomoto-my/Nan-Hwa-Snap4Arduino-Training/archive/refs/heads/main.zip)*** 后解压压缩包
 
+培训材料位于文件夹**_Nan_Hwa_SnapSnap4Arduino_Training_**内
+
+培训材料包括 3 个培训课程的 **_pdf_** 文件和
+- **Snap4Arduino** 的示例文件
+- 用于课程第 2 节和课程第 3 节的 Arduino 布线、元件和模块连接电路图
 
 <BR>
 
@@ -232,20 +238,13 @@ This companion tutorial contains explanations and instructions with examples.
 ---
 # Download Nan Hwa Snap4Arduino Training
 
-Download the latest version of ***[Nan_Hwa_Snap4Arduino_Training.zip](https://github.com/tomoto-my/Nan-Hwa-Snap4Arduino-Training/archive/refs/heads/main.zip)***
+Download the latest version of ***[Nan_Hwa_Snap4Arduino_Training.zip](https://github.com/tomoto-my/Nan-Hwa-Snap4Arduino-Training/archive/refs/heads/main.zip)*** and extract it.
 
-Extract it
+Training material is under the folder **_Nan_Hwa_SnapSnap4Arduino_Training_**
 
-- Directory Structure of the material as follows:
-
-    Nan_Hwa_Snap4Arduino_Training<BR>
-    |<BR>
-    -->Nan_Hwa_Snap4Arduino_Training_Session1_Examples<BR>
-    |<BR>
-    -->Nan_Hwa_Snap4Arduino_Training_Session2_Examples<BR>
-    |<BR>
-    -->Nan_Hwa_Snap4Arduino_Training_Session3_Examples<BR>
-
+It includes **_pdf_** file for the 3 Training Sessions and
+- Examples files for **Snap4Arduino**
+- Circuit diagram for Arduino wiring, component and module connection for Session 2 and 3
 
 <BR>
 
