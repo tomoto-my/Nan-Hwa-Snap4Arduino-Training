@@ -4,44 +4,49 @@
 
 **Nan Hwa Snap4Arduino Training** 是 **_espSnap_** 项目的配套教程。
 
-这个项目的灵感来自于利用 Snap！作为低门槛学习工具的便利, 为 **马来西亚曼绒南华独立中学** 的学生熟悉和使用 Arduino 功能的同时，学习一些电子基础知识
+这个项目的灵感来自于为马来西亚霹雳州南华中学的学生提供一个低门槛学习工具的目标，以学习编程和一些电子基础知识。**_espSnap_** 及其用于 **Snap4Arduino** 的 **espSnap_Library** 集成了可视化编程 **Snap _!_** 和通过 Arduino 进行电子编程的便利性，从而实现了这一目标。
 
-它有以下目标
+该项目实现了以下目标：
 
-1. 向初学者展示如何在 **Snap4Arduino** 中使用 Snap!
-2. 展示在 **Snap4Arduino** 中使用 **_espSnap_** 的简易性
-3. 让用户在学习和使用 **_espSnap_** 中熟悉 Arduino 的基本功能
-4. 同时，在接触和学习 **_espSnap_** 中学习一些电子基础知识
+1. 向初学者教授 **Snap4Arduino** 中的可视化编程 **Snap _!_**
+
+2. 通过使用 **espSnap_Library** 展示在 **Snap4Arduino** 中使用 **_espSnap_** 的简易性
+
+3. 让用户通过 **_espSnap_** 熟悉 Arduino 的基本功能
+
+4. 在学习示例的同时了解和学习一些电子基础知识
+
 5. 让用户将学习体验扩展到 **_espSnap_** 已整合功能的 Arduino 模块
 
 
 它共分为 3 个节课程，如下所示：
 
-- **第一节 : 图块编程 Snap! 简介**
-- **第二节 : 图块编程 Snap! + Arduino 结合的基础**
-- **第三节 : 结合图块编程 Snap! 与 Arduino 集成模块**
+- **第一节 : 图块编程 Snap _!_ 简介**
+- **第二节 : 图块编程 Snap _!_ + Arduino 结合的基础**
+- **第三节 : 结合图块编程 Snap _!_ 与 Arduino 集成模块**
 
 本配套教程包含带有示例的解释和说明。
 
+请下载桌面版本的 [**Snap4Arduino**](https://snap4arduino.rocks/) 以使用示例文件，
 
 <BR>
 
 ---
-### 第一节 : 图块编程 Snap! 简介
-第 1 节是关于 **Snap4Arduino** 的图块编程 Snap! 基本介绍
+### 第一节 : 图块编程 Snap _!_ 简介
+第 1 节是关于 **Snap4Arduino** 的图块编程 **Snap _!_** 基本介绍
 
-- 它包含关于 Snap! 8 个主要类别的章节<BR>
+- 它包含关于 **Snap _!_** 的 8 个主要类别的章节<BR>
     并举例说明了大多数常用块的功能或用途
 - 以及关于如何在 **Snap4Arduino** 中创建自定义块以简化块脚本（代码）的章节
-- 这使初学者能够对 Snap! 有相当的了解
+- 这使初学者能够对 **Snap _!_** 有相当的了解
 - 并能够开始创建自己的互动故事、游戏和动画
 - 示例包含详细解释
-- 有关 **Snap!** 更多的详细说明，请参阅 [Run Snap!](https://snap.berkeley.edu/) 的 [**Snap!** 参考手册](https://snap.berkeley.edu/snap/help/SnapManual.pdf)。
+- 有关 **Snap _!_** 更多的详细说明，请参阅 [Run Snap _!_](https://snap.berkeley.edu/) 的 [**Snap _!_** 参考手册](https://snap.berkeley.edu/snap/help/SnapManual.pdf)。
 
 
 <BR>
 
-### 第二节 : 图块编程 Snap! + Arduino 结合的基础
+### 第二节 : 图块编程 Snap _!_ + Arduino 结合的基础
 第 2 节指导用户使用 **espSnap_Library** 与 **_espSnap_** 进行交流，执行Arduino的以下基本功能
 - 基本功能列表如下 :
 
@@ -65,7 +70,7 @@
 
 <BR>
 
-### 第三节 : 结合图块编程 Snap! 与 Arduino 集成模块
+### 第三节 : 结合图块编程 Snap _!_ 与 Arduino 集成模块
 第 3 节介绍在 **Snap4Arduino** 中使用 **espSnap_Library** 的附加功能
 
 - 附加功能列表如下 :
@@ -100,6 +105,8 @@
 培训材料包括 3 个培训课程的 **_pdf_** 文件和
 - **Snap4Arduino** 的示例文件
 - 用于课程第 2 节和课程第 3 节的 Arduino 布线、元件和模块连接电路图
+
+请下载桌面版本的 [**Snap4Arduino**](https://snap4arduino.rocks/) 以使用示例文件，
 
 <BR>
 
@@ -168,42 +175,44 @@
 
 **Nan Hwa Snap4Arduino Training** is a companion tutorial for the **_espSnap_** project.
 
-This project has been inspired by the objective to use Snap! as a low entry barrier learning tool to familirise with functions provided by Arduino and learn some basics of electronics for **Nan Hwa High School** students in Perak, Malaysia
+This project had been inspired by the objective to provided a low entry barrier learning tool for students of Nan Hwa High School of Perak, Malaysia, to learn programming and some basics of electronics. **_espSnap_** together with its **espSnap_Library** for **Snap4Arduino** integrates the ease of visual programming **Snap _!_** and electronics via Arduino achieves this objective.
 
-It has the following objectives
+This project achieved the following objectives :
 
-1. to show users how to use Snap! in **Snap4Arduino**
-2. to demonstrate the ease of using **_espSnap_** in **Snap4Arduino**
-3. to allow users to learn and use **_espSnap_** and become familiarise with basic functions of Arduino
-4. at the same time, thru using of **_espSnap_**, to understand and learn some basics of Electronics
+1. to teach beginners visual programming **Snap _!_** in **Snap4Arduino**
+2. to demonstrate the ease of using **_espSnap_** in **Snap4Arduino** with the use of **espSnap_Library**
+3. to allow users to become familiarise with basic functions of Arduino via **_espSnap_**
+4. to understand and learn some basics of Electronics while going thru the examples
 5. to allow users to extend the learning experience to the Arduino Modules which **_espSnap_** have incorporated the functions
 
 
 It is organized into 3 sessions as follows :
-- **Session 1 : Introduction to Visual Programming Snap!**
-- **Session 2 : Basic Functions of Snap! + Arduino**
-- **Session 3 : Use Arduino Modules with Snap!**
+- **Session 1 : Introduction to Visual Programming Snap _!_**
+- **Session 2 : Basic Functions of Snap _!_ + Arduino**
+- **Session 3 : Use Arduino Modules with Snap _!_**
 
 This companion tutorial contains explanations and instructions with examples.
+
+In order to use the example files, download the desktop version of [**Snap4Arduino**](https://snap4arduino.rocks/).
 
 <BR>
 
 ---
-### Session 1 : Introduction to Visual Programming Snap!
-Session 1 is introduction to visual programming Snap! in **Snap4Arduino**
-- It has a section on each of the 8 main categories of Snap!
+### Session 1 : Introduction to Visual Programming Snap _!_
+Session 1 is introduction to visual programming **Snap _!_** in **Snap4Arduino**
+- It has a section on each of the 8 main categories of **Snap _!_**<BR>
     with example of the function or purpose of most of the commonly used blocks
 - plus a section on how to create custom block in **Snap4Arduino** to simplify the block scripts(codes)
-- this allows beginners to have a quite understanding of Snap!
+- this allows beginners to have a good understanding of **Snap _!_**
 - and be able to start create their own interactive stories, games and animations
 - examples contained detailed explanations
 
-- Refer to [**Snap!** Reference Manual](https://snap.berkeley.edu/snap/help/SnapManual.pdf) for detailed explanations on Snap!.
+- Refer to [**Snap _!_** Reference Manual](https://snap.berkeley.edu/snap/help/SnapManual.pdf) for detailed explanations on **Snap _!_**.
 
 <BR>
 
-### Session 2 : Basic Functions of Snap! + Arduino
-Session 2 guides users to interact with **_espSnap_** to perform the Basic Arduino Functions using the **espSnap_Library**
+### Session 2 : Basic Functions of Snap _!_ + Arduino
+Session 2 teach users to perform the Basic Arduino Functions using the **espSnap_Library** with **_espSnap_**
 - list of Basic Arduino Functions as follows :
     | Basic Arduino Functions  |
     |:------------------------:|
@@ -224,8 +233,8 @@ Session 2 guides users to interact with **_espSnap_** to perform the Basic Ardui
 
 <BR>
 
-### Session 3 : Use Arduino Modules with Snap!
-Session 3 guides users to interact with **_espSnap_** to perform the Additional Functions of the **espSnap_Library** incorporated in **_espSnap_**
+### Session 3 : Use Arduino Modules with Snap _!_
+Session 3 teach users to perform the Additional Functions of the **espSnap_Library** incorporated in **_espSnap_**
 - list of Additional Functions of Arduino modules which **_espSnap_** had incorporated
 
     | Additional Functions        | Arduino Parts           |
@@ -257,6 +266,8 @@ Training material is under the folder **_Nan_Hwa_SnapSnap4Arduino_Training_**
 It includes **_pdf_** file for the 3 Training Sessions and
 - Examples files for **Snap4Arduino**
 - Circuit diagram for Arduino wiring, component and module connection for Session 2 and 3
+
+In order to use the example files, download the desktop version of [**Snap4Arduino**](https://snap4arduino.rocks/).
 
 <BR>
 
