@@ -4,18 +4,18 @@
 
 它有以下目标
 
-1. 向用户展示如何在 **Snap4Arduino** 中使用 Snap*!*
+1. 向用户展示如何在 **Snap4Arduino** 中使用 Snap!
 2. 展示在 **Snap4Arduino** 中使用 **_espSnap_** 的简易性
 3. 让用户学习和使用 **_espSnap_** Arduino 板
 4. 让用户通过 **_espSnap_** 学习一些电子基础知识
 5. 让用户将学习体验扩展到 **_espSnap_** 已整合功能的 Arduino 模块
 
 
-它分为 3 个课程，如下所示：
+它分为 3 节课程，如下所示：
 
-- 第一节 : 图块编程 Snap! 简介
-- 第二节 : 图块编程 Snap! + Arduino 结合的基础
-- 第三节 : 结合图块编程 Snap! 与 Arduino 集成模块
+- **第一节 : 图块编程 Snap! 简介**
+- **第二节 : 图块编程 Snap! + Arduino 结合的基础**
+- **第三节 : 结合图块编程 Snap! 与 Arduino 集成模块**
 
 本配套教程包含带有示例的解释和说明。
 
@@ -24,23 +24,22 @@
 
 ---
 ### 第一节 : 图块编程 Snap! 简介
-第 1 节是关于 **Snap4Arduino** 的 图块编程 __Snap*!*__ 基本介绍
+第 1 节是关于 **Snap4Arduino** 的 图块编程 Snap! 基本介绍
 
-- 它包含关于 __Snap*!*__ 8 个主要类别的章节<BR>
+- 它包含关于 Snap! 8 个主要类别的章节<BR>
     并举例说明了大多数常用块的功能或用途
 - 以及关于如何在 **Snap4Arduino** 中创建自定义块以简化块脚本（代码）的章节
-- 这使初学者能够对 __Snap*!*__ 有相当的了解
+- 这使初学者能够对 Snap! 有相当的了解
 - 并能够开始创建自己的互动故事、游戏和动画
 - 示例包含详细解释
 
-- 有关 **Snap_!_** 详细说明，请参阅 [**Snap_!_** 参考手册](https://snap.berkeley.edu/snap/help/SnapManual.pdf)。
+- 有关 **Snap!** 详细说明，请参阅 [**Snap!** 参考手册](https://snap.berkeley.edu/snap/help/SnapManual.pdf)。
 
 
-<BR>
+<BR>指导用户使用**espSnap_Library**与Arduino进行交互和交流
 
 ### 第二节 : 图块编程 Snap! + Arduino 结合的基础
-第 2 节介绍在 **Snap4Arduino** 中使用 **espSnap_Library** 的基本 Arduino 功能
-
+第 2 节指导用户使用**espSnap_Library**与**_espSnap_**进行交流，执行Arduino的以下基本功能
 - 基本功能列表如下 :
 
     | 基本功能列表 |
@@ -56,7 +55,10 @@
 
     ##### 注 [1] ：模拟输出 - DAC 仅适用于 ESP32
 
-- 示例包含详细解释
+- 示例包含详基本 Arduino 功能细解释, 包括
+    - 基本 Arduino 功能
+    - 一些电子基础知识
+
 
 <BR>
 
@@ -77,7 +79,10 @@
     | 旋转编码器 | EC11 / KY-040 |
     | 雨量传感器模块 | YL-83 |
 
-- 示例包含详细解释
+- 示例包含详细解释, 包括
+    - Arduino 集成模块功能
+    - 一些电子基础知识
+    - 与模块相关的技术信息
 
 
 <BR>
@@ -129,23 +134,26 @@
 <BR>
 
 ---
-## espSnap
+## _espSnap_
 
 连接 Snap4Arduino 和 ESP32/ESP8266 Arduino 板的 Http 服务器
 
-**_espSnap_** 可在以下网址获取：
+[**_espSnap_**](https://github.com/tomoto-my/espSnap) 可在以下网址获取：
 
-[espSnap](https://github.com/tomoto-my/espSnap)
+[**https://github.com/tomoto-my/espSnap**](https://github.com/tomoto-my/espSnap)
 
 
 
-<BR>
+<BR><BR>
+
 ---
+# Nan Hwa Snap4Arduino Training
+
 **Nan Hwa Snap4Arduino Training** is a companion tutorial for the **_espSnap_** project.
 
 It has the following objectives
 
-(1) to show users how to use Snap*!* in **Snap4Arduino**
+(1) to show users how to use Snap! in **Snap4Arduino**
 (2) to demonstrate the ease of using **_espSnap_** in **Snap4Arduino**
 (3) to allow users to learn and use the **_espSnap_** Arduino board
 (4) to allow users to learn some basics of Electronics via **_espSnap_**
@@ -153,9 +161,9 @@ It has the following objectives
 
 
 It is organized into 3 sessions as follows :
-- Session 1 : **Introduction to Visual Programming Snap!**
-- Session 2 : **Basic Functions of Snap! + Arduino**
-- Session 3 : **Use Arduino Modules with Snap!**
+- **Session 1 : Introduction to Visual Programming Snap!**
+- **Session 2 : Basic Functions of Snap! + Arduino**
+- **Session 3 : Use Arduino Modules with Snap!**
 
 This companion tutorial contains explanations and instructions with examples.
 
@@ -163,14 +171,14 @@ This companion tutorial contains explanations and instructions with examples.
 
 ---
 ### Session 1 : Introduction to Visual Programming Snap!
-- It has a section on each of the 8 main categories of Snap*!*
+- It has a section on each of the 8 main categories of Snap!
     with example of the function or purpose of most of the commonly used blocks
 - plus a section on how to create custom block in **Snap4Arduino** to simplify the block scripts(codes)
-- this allows beginners to have a quite understanding of Snap*!*
+- this allows beginners to have a quite understanding of Snap!
 - and be able to start create their own interactive stories, games and animations
 - examples contained detailed explanations
 
-- Refer to [**Snap_!_** Reference Manual](https://snap.berkeley.edu/snap/help/SnapManual.pdf) for detailed explanations on Snap*!*.
+- Refer to [**Snap!** Reference Manual](https://snap.berkeley.edu/snap/help/SnapManual.pdf) for detailed explanations on Snap!.
 
 ### Session 2 : Basic Functions of Snap! + Arduino
 - Session 2 allows users to interact with **_espSnap_** to perform the following Basic functions of Arduino using the **espSnap_Library**
@@ -188,7 +196,9 @@ This companion tutorial contains explanations and instructions with examples.
 
     ###### Note [1] : Analog Output - DAC is only available on ESP32
 
-- examples contained detailed explanations
+- examples contained detailed explanations on :
+    - basic Arduino Functions
+    - basic guides on Electronics
 
 ### Session 3 : Use Arduino Modules with Snap!
 - Session 3 allows users to interact with **_espSnap_** to perform the Additional Functions of the **espSnap_Library**
@@ -205,7 +215,10 @@ This companion tutorial contains explanations and instructions with examples.
     | Rotary Encoder              | EC11 / KY-040           |
     | Rain Sensor Module          | YL-83                   |
 
-- examples contained detailed explanations
+- examples contained detailed explanations on :
+    - Arduino Modules
+    - basic guides on Electronics
+    - technical info related to the modules
 
 <BR>
 
@@ -254,11 +267,10 @@ This portion contains the
 <BR>
 
 ---
-## espSnap
+## _espSnap_
 
-A Http Server bridging Snap4Arduino and ESP32/ESP8266 Arduino boards
+## A Http Server bridging Snap4Arduino and ESP32/ESP8266 Arduino boards
 
-**_espSnap_** is available at :
+[**_espSnap_**](https://github.com/tomoto-my/espSnap) is available at :
 
-[espSnap](https://github.com/tomoto-my/espSnap)
-
+[**https://github.com/tomoto-my/espSnap**](https://github.com/tomoto-my/espSnap)
