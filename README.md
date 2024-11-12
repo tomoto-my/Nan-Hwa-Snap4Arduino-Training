@@ -190,6 +190,7 @@ This companion tutorial contains explanations and instructions with examples.
 
 ---
 ### Session 1 : Introduction to Visual Programming Snap!
+Session 1 is introduction to visual programming Snap! in **Snap4Arduino**
 - It has a section on each of the 8 main categories of Snap!
     with example of the function or purpose of most of the commonly used blocks
 - plus a section on how to create custom block in **Snap4Arduino** to simplify the block scripts(codes)
@@ -202,8 +203,8 @@ This companion tutorial contains explanations and instructions with examples.
 <BR>
 
 ### Session 2 : Basic Functions of Snap! + Arduino
-- Session 2 allows users to interact with **_espSnap_** to perform the following Basic functions of Arduino using the **espSnap_Library**
-
+Session 2 guides users to interact with **_espSnap_** to perform the Basic Arduino Functions using the **espSnap_Library**
+- list of Basic Arduino Functions as follows :
     | Basic Arduino Functions  |
     |:------------------------:|
     | Digital Input            |
@@ -224,8 +225,8 @@ This companion tutorial contains explanations and instructions with examples.
 <BR>
 
 ### Session 3 : Use Arduino Modules with Snap!
-- Session 3 allows users to interact with **_espSnap_** to perform the Additional Functions of the **espSnap_Library**
-    Following is a list of functions for the modules which **_espSnap_** had incorporated
+Session 3 guides users to interact with **_espSnap_** to perform the Additional Functions of the **espSnap_Library** incorporated in **_espSnap_**
+- list of Additional Functions of Arduino modules which **_espSnap_** had incorporated
 
     | Additional Functions        | Arduino Parts           |
     |:----------------------------|:------------------------|
