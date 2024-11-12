@@ -4,18 +4,18 @@
 
 **Nan Hwa Snap4Arduino Training** 是 **_espSnap_** 项目的配套教程。
 
-该项目的灵感来自于为 **马来西亚曼绒南华独立中学** 学生提供低门槛入门级学习Arduino的工具。
+这个项目的灵感来自于利用 Snap！作为低门槛学习工具的便利, 为 **马来西亚曼绒南华独立中学** 的学生提供熟悉 Arduino 功能，并学习一些电子基础知识的目标
 
 它有以下目标
 
-1. 向用户展示如何在 **Snap4Arduino** 中使用 Snap!
+1. 向初学者展示如何在 **Snap4Arduino** 中使用 Snap!
 2. 展示在 **Snap4Arduino** 中使用 **_espSnap_** 的简易性
-3. 让用户学习和使用 **_espSnap_** ，熟悉 Arduino 的基本功能
+3. 让用户在学习和使用 **_espSnap_** 中熟悉 Arduino 的基本功能
 4. 同时，在接触和学习 **_espSnap_** 中学习一些电子基础知识
 5. 让用户将学习体验扩展到 **_espSnap_** 已整合功能的 Arduino 模块
 
 
-它分为 3 节课程，如下所示：
+它共分为 3 个节课程，如下所示：
 
 - **第一节 : 图块编程 Snap! 简介**
 - **第二节 : 图块编程 Snap! + Arduino 结合的基础**
@@ -36,7 +36,6 @@
 - 这使初学者能够对 Snap! 有相当的了解
 - 并能够开始创建自己的互动故事、游戏和动画
 - 示例包含详细解释
-
 - 有关 **Snap!** 更多的详细说明，请参阅 [Run Snap!](https://snap.berkeley.edu/) 的 [**Snap!** 参考手册](https://snap.berkeley.edu/snap/help/SnapManual.pdf)。
 
 
@@ -46,7 +45,7 @@
 第 2 节指导用户使用 **espSnap_Library** 与 **_espSnap_** 进行交流，执行Arduino的以下基本功能
 - 基本功能列表如下 :
 
-    |        基本功能列表        |
+    |   Arduino 基本功能列表     |
     |:------------------------:|
     | 数字输入 |
     | 数字输出 |
@@ -169,7 +168,7 @@
 
 **Nan Hwa Snap4Arduino Training** is a companion tutorial for the **_espSnap_** project.
 
-This project has been inspired by the objective to provide a low barrier entry level learning tool for Arduino for **Nan Hwa High School** students in Perak, Malaysia.
+This project has been inspired by the objective to use Snap! as a low entry barrier learning tool to familirise with functions provided by Arduino and learn some basics of electronics for **Nan Hwa High School** students in Perak, Malaysia
 
 It has the following objectives
 
