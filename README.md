@@ -118,7 +118,7 @@
 
 <BR>
 
-### (1) 在 Arduino 类别内
+#### (1) 在 Arduino 类别内
 - 此部分包含 **_espSnap_** 提供的所有基本功能
 - 和下例部分 **_espSnap_** 提供的附加模块功能：
 
@@ -130,7 +130,7 @@
     | 旋转编码器 | EC11 / KY-040 |
     | I2C LCD | I2C LCD 16x2 |
 
-### (2) NeoPixel 类别
+#### (2) NeoPixel 类别
 - 用于控制连接到 **_espSnap_** 的 NeoPixel 的各种功能
 - NeoPixel 的最大数量限制为300
 
@@ -138,7 +138,7 @@
     |:--------------|:------------------------|
     | NeoPixel | WS2812B |
 
-### (3) OLED SSD1306 类别
+#### (3) OLED SSD1306 类别
 - 用于控制连接到 **_espSnap_** 的 OLED SSD1306 的各种功能
 - 连接通过 SCL/SDA 引脚使用 I2C 协议进行
 
@@ -154,7 +154,7 @@
 
 连接 **Snap4Arduino** 和 ESP32/ESP8266 Arduino 板的 Http 服务器
 
-可在以下网址获取：
+**_espSnap_** 可在以下网址获取：
 
 [**https://github.com/tomoto-my/espSnap**](https://github.com/tomoto-my/espSnap)
 
@@ -273,7 +273,7 @@ The custom blocks are currently split into the following 3 categories:
 
 <BR>
 
-### (1) inside the Arduino category
+#### (1) inside the Arduino category
 - This portion contains the **Basic Arduino Functions** provided by **_espSnap_**
 - and some of the **Additional Functions** provided by **_espSnap_** as follow:
 
@@ -286,7 +286,7 @@ The custom blocks are currently split into the following 3 categories:
     | I2C LCD                     | I2C LCD 16x2            |
 
 
-### (2) NeoPixel category
+#### (2) NeoPixel category
 - Various functions to control NeoPixels connected to **_espSnap_**
 - Maximum number of NeoPixel is limited to 300
 
@@ -295,7 +295,7 @@ The custom blocks are currently split into the following 3 categories:
     | NeoPixel                    | WS2812B                 |
 
 
-### (3) OLED SSD1306 category
+#### (3) OLED SSD1306 category
 - Various functions to control OLED SSD1306 connected to **_espSnap_**
 - connection is via the SCL/SDA pins using I2C protocol
 
@@ -311,6 +311,6 @@ The custom blocks are currently split into the following 3 categories:
 
 ## A Http Server bridging Snap4Arduino and ESP32/ESP8266 Arduino boards
 
-[**_espSnap_**](https://github.com/tomoto-my/espSnap) is available at :
+**_espSnap_** is available at :
 
 [**https://github.com/tomoto-my/espSnap**](https://github.com/tomoto-my/espSnap)
