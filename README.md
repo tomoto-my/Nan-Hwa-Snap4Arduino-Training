@@ -32,6 +32,16 @@
 <BR>
 
 ---
+# Nan Hwa Snap4Arduino Training 传单
+
+**Nan Hwa Snap4Arduino Training** 的简要介绍
+
+[**Nan Hwa Snap4Arduino Training 传单**](https://snap.berkeley.edu/snap/snap.html#present:Username=thngan0&ProjectName=241116_Nan_Hwa_Snap4Arduino_Training_Flyer)
+
+
+<BR>
+
+---
 ### 第一节 : 图块编程 Snap _!_ 简介
 第 1 节是关于 **Snap4Arduino** 的图块编程 **Snap _!_** 基本介绍
 
@@ -194,6 +204,16 @@ It is organized into 3 sessions as follows :
 This companion tutorial contains explanations and instructions with examples.
 
 In order to use the example files, download the desktop version of [**Snap4Arduino**](https://snap4arduino.rocks/).
+
+<BR>
+
+---
+## Nan Hwa Snap4Arduino Training Flyer
+
+A quick introduction of **Nan Hwa Snap4Arduino Training**
+
+[**Nan Hwa Snap4Arduino Training Flyer**](https://snap.berkeley.edu/snap/snap.html#present:Username=thngan0&ProjectName=241116_Nan_Hwa_Snap4Arduino_Training_Flyer)
+
 
 <BR>
 
